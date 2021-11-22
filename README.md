@@ -4,7 +4,7 @@ Cheatsheet for Isabelle/Isar 2021
 Download
 --------
 
-[isar-cheetsheet.pdf](https://github.com/Kuniwak/isar-cheatsheet/releases/download/v1.1/Isar.CheatSheet.pdf)
+[isar-cheetsheet.pdf](https://github.com/Kuniwak/isar-cheatsheet/releases/download/v1.2/Isar.CheatSheet.pdf)
 
 
 References
